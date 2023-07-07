@@ -1,6 +1,6 @@
 
 
-#for GKE 
+#for GKE, testing
 
 resource "google_container_cluster" "primary" {
   name     = var.gke_cluster_name
