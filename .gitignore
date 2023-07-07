@@ -1,1 +1,6 @@
 ducpham-gcp-practice-4cf62598c944.json
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+.terraform/
+.terraform.lock.hcl
